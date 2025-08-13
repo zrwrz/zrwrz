@@ -1,3 +1,6 @@
-![ZRWRZ's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zrwrz&show_icons=true&hide_title=true&count_private=true&hide=prs)
 ![ZRWRZ's GitHub Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=zrwrz)
+![GitHub contributors](https://img.shields.io/github/contributors/zrwrz/zrwrz?style=flat-square)
+![GitHub issues](https://img.shields.io/github/issues/zrwrz/zrwrz?style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/zrwrz/zrwrz?style=flat-square)
+
 
